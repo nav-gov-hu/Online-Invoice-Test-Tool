@@ -3,5 +3,5 @@
 <applicationName>Online Invoice Test Tool</applicationName>
 <applicationVersion>3.0.7674</applicationVersion>
 <installerName>OnlineInvoiceTool_installer_2021_01_04.exe</installerName>
-<baseUrl>https://github.com/renced42/Online-Invoice-Test-Tool/blob/main/bin/</baseUrl>
+<baseUrl>https://github.com/nav-gov-hu/Online-Invoice-Test-Tool/blob/main/bin/</baseUrl>
 </application>
