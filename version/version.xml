@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <application>
 <applicationName>Online Invoice Test Tool</applicationName>
-<applicationVersion>3.0.7674</applicationVersion>
-<installerName>OnlineInvoiceTool_installer_2021_01_04.exe</installerName>
+<applicationVersion>3.0.7838</applicationVersion>
+<installerName>OnlineInvoiceTool_installer_2021_06_17.exe</installerName>
 <baseUrl>https://github.com/nav-gov-hu/Online-Invoice-Test-Tool/blob/main/bin/</baseUrl>
 </application>
